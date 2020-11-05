@@ -1,0 +1,50 @@
+.hero {
+    color: white;
+    background-image: url("/picture/tetris.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25vh;
+  }
+  .hero2 {
+    color: white;
+    background-image: url("/picture/story.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+  }
+
+  .back-to-top{
+    background: #000;
+    height:50px;
+    width:50px;
+    position:fixed;
+    bottom:30px;
+    right:30px;
+    color:#FFFFFF;
+    font-size:30px;
+    padding:10px;
+    text-align:center;
+
+}
+.cate{
+    color: white;
+    background-image: url("/picture/category.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20vh;
+}
+.bag{
+  color: white;
+  background-image: url("/picture/karby\ cart.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+}
+.dosis{
+  font-family: 'Dosis', sans-serif;
+
+}
